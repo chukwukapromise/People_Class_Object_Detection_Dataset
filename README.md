@@ -8,7 +8,7 @@ This dataset is publicly available for research, experimentation, and machine le
 
 This dataset contains images of people in various environments, annotated for object detection tasks. It captures a wide range of instances, scenes, poses, scales, and lighting conditions to improve model robustness and generalization.
 
-Key Features
+📌 Key Features
 
 🔹 Single class: person
 
